@@ -28,7 +28,8 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
-
+  - name: 网站主页
+    url: https://yhx5129.github.io
 # Pagination
 paginate: 8
 
