@@ -67,7 +67,7 @@ gitalk:
   clientID: b21f0431699ede9e509b
   clientSecret: fd0784200f7f8d185bf1145f1f108bd68aa2b1b2
   repo: zno2010.github.io
-  owner: ZnO
+  owner: ZnO2010
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
