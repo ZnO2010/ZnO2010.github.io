@@ -156,7 +156,7 @@ Button4 = ttk.Button(window,text="批量转换",command = transPath)
 Button4.place(x = 550, y = 350, anchor = "nw")
 window.mainloop()
 ```
-![1](images/1.png)
+![images/1.png](https://raw.githubusercontent.com/ZnO2010/ZnO2010.github.io/main/_posts/images/1.png)
 最后用auto-py-to-exe打包成exe，再用Inno Setup打包成安装包。（~~无聊~~）
 安装包下载
 安装包：
