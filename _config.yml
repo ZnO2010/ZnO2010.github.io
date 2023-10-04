@@ -7,11 +7,11 @@ name: "ZnO's blog"
 # Short bio or description (displayed in the header)
 description: "My own blog."
 
-valine_comment:
-    enable: true
-    leancloud_appid: I7pPzOmJCHlBJeCTGNChljgX-9Nh9j0Va
-    leancloud_appkey: cuFQWP1zvsU1oGbSodCkSotR
-    placeholder: "Just go go."
+# valine_comment:
+#     enable: true
+#     leancloud_appid: I7pPzOmJCHlBJeCTGNChljgX-9Nh9j0Va
+#     leancloud_appkey: cuFQWP1zvsU1oGbSodCkSotR
+#     placeholder: "Just go go."
 
 #
 # Flags below are optional
